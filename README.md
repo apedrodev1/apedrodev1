@@ -3,7 +3,6 @@
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,
 - 🚀 Also, complementary studies in Cisco Networking Academy and B7.web,
 - 📧 How to reach me: 
-</br>
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
         <a href="mailto:apedro.rp@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -17,11 +16,7 @@
         </br></br>
     </div>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-right: 40px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&langs_count=8" alt="Top Langs">
-    </div>
+
 </br>
 
 ## Technologies that I've been studying:
@@ -35,3 +30,9 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="margin: 10px;">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin: 10px;">
 </div>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&langs_count=8" alt="Top Langs">
+    </div>
