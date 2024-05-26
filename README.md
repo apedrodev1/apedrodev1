@@ -1,5 +1,4 @@
-
-### Hey You! I'm Pedro Augusto! ✌️
+### Hey there! I'm Pedro Augusto! ✌️
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,
 - 🚀 Also, complementary studies in Cisco Networking Academy and B7.web,
 - 📧 How to reach me: 
@@ -32,9 +31,14 @@
 </div>
 </br>
 </br>
+</br>
+</br>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
+    <div style="display: flex; flex-direction: row; margin-bottom: 40px;">
         <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&langs_count=8" alt="Top Langs">
     </div>
+    </div>
+
+## Highlighted projects:
