@@ -1,7 +1,7 @@
 ### Hey You! I'm Pedro Augusto! ✌️
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University.
 - 📧 How to reach me: 
-
+</br>
 <div style="display: flex; flex-direction: row; gap: 10px;">
         <a href="mailto:apedro.rp@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -12,10 +12,10 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
         </a>
-        </br></br></br>
+        </br></br>
     </div>
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <div style="display: flex; flex-direction: row; margin-bottom: 10px;">
+    <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dracula" alt="Pedro's GitHub stats" style="margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&langs_count=8" alt="Top Langs">
     </div>
