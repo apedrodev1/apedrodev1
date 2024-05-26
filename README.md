@@ -13,7 +13,7 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
         </a>
-        </br></br>
+        </br>
     </div>
 
 
@@ -30,6 +30,8 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="margin: 10px;">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin: 10px;">
 </div>
+</br>
+</br>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="display: flex; flex-direction: row; margin-bottom: 20px;">
