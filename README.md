@@ -42,4 +42,8 @@
 ## Highlighted projects:
 
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=apedrodev1&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
