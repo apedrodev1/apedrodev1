@@ -36,7 +36,7 @@
 </br>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&langs_count=8" alt="Top Langs" style="margin-top: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&show_icons=true&theme=dark" alt="Top Langs" style="margin-top: 20px;">
 
 
 ## Highlighted projects:
