@@ -41,6 +41,8 @@
 
 ## Highlighted projects:
 
+- Projeto [Mega Sena](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Mega%20Sena) em JavaScript .
+
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=apedrodev1&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
