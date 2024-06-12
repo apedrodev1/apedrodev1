@@ -43,8 +43,9 @@
 
 - Projeto [Jogo da Forca](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Jogo%20Forca) em JavaScript.
   
-- Projeto [Mega Sena](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Mega%20Sena) em JavaScript .
+- Projeto [Mega Sena](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Mega%20Sena) em JavaScript.
 
+- Projeto Jokenpô [Pedra, Papel e Tesoura] (https://github.com/apedrodev1/Python-Learning-HUB/tree/main/Pedra%20Papel%20Tesoura) em Python. 
 
 
 </br>
