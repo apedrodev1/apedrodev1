@@ -39,9 +39,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&show_icons=true&theme=dark" alt="Top Langs" style="margin-top: 20px;">
 
 
+</br>
+
 ## Highlighted projects:
 
-</br>
+
 
 - Projeto [Jogo da Forca](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Jogo%20Forca) em JavaScript.
   
