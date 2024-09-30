@@ -44,6 +44,7 @@
 ## Highlighted projects:
 
 
+- Projeto [Luta RPG](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Jogo%20Luta) em JavaScript usando POO.
 
 - Projeto [Jogo da Forca](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Jogo%20Forca) em JavaScript.
   
