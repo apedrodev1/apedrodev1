@@ -22,6 +22,10 @@
     </div>
 </br>
 
+## Certificates:
+  - Python - Basic Module, 32 hours - Huawei
+  - Python - Intermediate Module, 48 hours - Huawei
+
 ## Technologies that I've been studying:
 
 <div style="display: inline-block;">
