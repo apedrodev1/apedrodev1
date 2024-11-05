@@ -23,8 +23,11 @@
 </br>
 
 ## Certificates:
-  - Python - Basic Module, 32 hours - Huawei
+  - Cambridge CAE (C1),
+  - Python - Basic Module, 32 hours - Huawei,
   - Python - Intermediate Module, 48 hours - Huawei
+
+</br>
 
 ## Technologies that I've been studying:
 
