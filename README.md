@@ -1,6 +1,6 @@
 ### Hey there! I'm Pedro Augusto! ✌️
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,
-- 🚀 Also, complementary studies in Cisco Networking Academy and B7.web,
+- 🚀 Also, complementary studies in Cisco Networking Academy, Huawei Academy  and B7.web,
 - 📧 How to reach me: 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
   <a href="mailto:apedro.rp@gmail.com">
