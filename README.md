@@ -51,8 +51,6 @@
 </br>
 
 
-
-
 ## Highlighted projects:
 
 - Projeto [To-do-list](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/To%20do%20list) em JavaScript e PHP.
