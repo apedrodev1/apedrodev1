@@ -4,8 +4,6 @@
 - 📧 How to reach me: 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
 
-
-  
   <a href="mailto:apedro.rp@gmail.com">
           <a href="https://api.whatsapp.com/send?phone=353803678434&text=Oi%20Pedro,%20estou%20entrando%20em%20contato%20pelo%20seu%20README!">
   <img src="https://img.shields.io/badge/WhatsApp-25D365?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
