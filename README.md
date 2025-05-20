@@ -27,6 +27,7 @@
   - Cambridge CAE (C1),
   - Python - Basic Module, 32 hours - Huawei,
   - Python - Intermediate Module, 48 hours - Huawei
+  - [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url)
 
 </br>
 
