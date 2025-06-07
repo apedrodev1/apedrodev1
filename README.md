@@ -58,7 +58,7 @@
 
 - Projeto [To-do-list](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/To%20do%20list) em JavaScript e PHP.
 
-- Projeto [QuickPrompt SignUp](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/QuickPrompt%20SignUp) em JavaScript usando POO; estrutura Modular X Monolítica.
+- Projeto [QuickPrompt SignUp](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/QuickPrompt%20SignUp) em JavaScript; arquitetura Modular X Monolítica.
 
 - Projeto [Jogo da Forca](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Jogo%20Forca) em JavaScript.
 
