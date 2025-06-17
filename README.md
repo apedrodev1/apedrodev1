@@ -72,13 +72,16 @@
 
 
 
-
-
-
-
-
-
 </br>
 
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+
+</br>
+
+## 🎉 Thanks for checking out!
+
+</br>
+
+Feel free to open issues or contribute.
