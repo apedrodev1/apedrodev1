@@ -24,7 +24,7 @@
     </div>
 </br>
 
-## Certificates:
+## 📜 Certificates:
   - Cambridge CAE (C1),
   - [Python - Basic Module, 32 hours - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing),
   - [Python - Intermediate Module, 32 hours - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link),
@@ -35,7 +35,7 @@
 
 
 
-## Technologies that I've been studying:
+## 🛠️ Technologies that I've been studying:
 
 <div style="display: inline-block;">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 10px;">
@@ -55,7 +55,7 @@
 </br>
 
 
-## Highlighted projects:
+## 🌟  Highlighted projects:
 
 - Projeto [To-do-list](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/To%20do%20list) em JavaScript e PHP.
 
@@ -75,6 +75,14 @@
 
 </br>
 
+## 📄 Resume and cover letter:
+- You can check my resume in PDF here: [⬇️](https://drive.google.com/file/d/1yUqr3BwIXdo6ibP1DSi-yyq5ftauiSuF/view?usp=drive_link)
+- You can check my cover letter in PDF here: [⬇️]() 
+
+</br>
+
+
+
 ## 🎉 Thanks for checking out!
 
 </br>
@@ -91,5 +99,5 @@ Feel free to open issues or contribute.
 
 
 
-![cv-english version](https://drive.google.com/file/d/1yUqr3BwIXdo6ibP1DSi-yyq5ftauiSuF/view?usp=drive_link)
+
 
