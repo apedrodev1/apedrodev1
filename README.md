@@ -76,8 +76,8 @@
 </br>
 
 ## 📄 Resume and Cover Letter:
-- You can check my resume in PDF here:   [⬇️⬇️](https://drive.google.com/file/d/1yUqr3BwIXdo6ibP1DSi-yyq5ftauiSuF/view?usp=drive_link)
-- You can check my cover letter in PDF here:  [⬇️⬇️](https://drive.google.com/file/d/1mK2ABc9JE4gRSf2Lup3yc3jBs_n9GIXQ/view?usp=sharing) 
+- You can check my resume in PDF here:         [⬇️⬇️](https://drive.google.com/file/d/1yUqr3BwIXdo6ibP1DSi-yyq5ftauiSuF/view?usp=drive_link)
+- You can check my cover letter in PDF here:   [⬇️⬇️](https://drive.google.com/file/d/1mK2ABc9JE4gRSf2Lup3yc3jBs_n9GIXQ/view?usp=sharing) 
 
 </br>
 
