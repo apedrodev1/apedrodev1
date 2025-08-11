@@ -1,4 +1,5 @@
 ### Hey there! I'm Pedro Augusto! ✌️
+
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,
 - ⚙️ IT intership at São José do Rio Pardo city council.
 - 🚀 Also, complementary studies in Cisco Networking Academy, Huawei Academy  and B7.web,
@@ -25,6 +26,7 @@
 </br>
 
 ## 📜 Certificates:
+
   - Cambridge CAE (C1),
   - [Python - Basic Module, 32 hours - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing),
   - [Python - Intermediate Module, 32 hours - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link),
@@ -76,11 +78,11 @@
 </br>
 
 ## 📄 Cover Letter and resume:
+
 - You can check my resume in PDF here:         [⬇️⬇️](https://drive.google.com/file/d/1yUqr3BwIXdo6ibP1DSi-yyq5ftauiSuF/view?usp=drive_link)
 - You can check my cover letter in PDF here:   [⬇️⬇️](https://drive.google.com/file/d/1mK2ABc9JE4gRSf2Lup3yc3jBs_n9GIXQ/view?usp=sharing) 
 
 </br>
-
 
 
 ## 🎉 Thanks for checking out!
