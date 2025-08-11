@@ -1,6 +1,6 @@
 ### Hey there! I'm Pedro Augusto! ✌️
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,
-- ⚙️  Intership at São José do Rio Pardo city council.
+- ⚙️ IT intership at São José do Rio Pardo city council.
 - 🚀 Also, complementary studies in Cisco Networking Academy, Huawei Academy  and B7.web,
 - 📧 How to reach me: 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
@@ -75,7 +75,7 @@
 
 </br>
 
-## 📄 Resume and Cover Letter:
+## 📄 Cover Letter and resume:
 - You can check my resume in PDF here:         [⬇️⬇️](https://drive.google.com/file/d/1yUqr3BwIXdo6ibP1DSi-yyq5ftauiSuF/view?usp=drive_link)
 - You can check my cover letter in PDF here:   [⬇️⬇️](https://drive.google.com/file/d/1mK2ABc9JE4gRSf2Lup3yc3jBs_n9GIXQ/view?usp=sharing) 
 
