@@ -33,7 +33,9 @@
   - [Python - Basic Module, 32 hours - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing),
   - [Python - Intermediate Module, 32 hours - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link).
 
-    </br>
+
+ </br>
+
  
 ### [IBM SkillBuild](https://skills.yourlearning.ibm.com/)
   - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url),
