@@ -32,7 +32,10 @@
   - Cambridge CAE (C1),
   - [Python - Basic Module, 32 hours - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing),
   - [Python - Intermediate Module, 32 hours - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link),
-  - [Web Development Fundamentals - IBM](https://www.credly.com/badges/a8970617-d9f7-41cc-bf84-5ab66b148cde/public_url),
+ 
+# [IBM SkillBuild](https://skills.yourlearning.ibm.com/)
+  - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)
+  - [Web Development Fundamentals - IBM and Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url),
   - [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url)
 
 </br>
