@@ -36,9 +36,10 @@
 
 <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=<URL_do_seu_logo>&logoColor=white" alt="IBM">
 
- <img width="20" height="15" alt="images" src="https://github.com/user-attachments/assets/d9ecc2df-bc01-4aec-9848-ec8371401202" (https://skills.yourlearning.ibm.com/)  />
+<img width="318" height="159" alt="images" src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" />
 
- ### [<img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">]
+
+ ### [<img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">](https://skills.yourlearning.ibm.com/)
 
   - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url),
   - [Web Development Fundamentals - IBM and Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url),
