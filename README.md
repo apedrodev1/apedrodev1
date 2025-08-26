@@ -36,7 +36,7 @@
 
 <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=<URL_do_seu_logo>&logoColor=white" alt="IBM">
 
-<img width="40" height="30" alt="images" src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" />
+<img width="60" height="40" alt="images" src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" />
 
 
  ### [<img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">](https://skills.yourlearning.ibm.com/)
