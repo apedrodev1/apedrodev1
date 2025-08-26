@@ -8,20 +8,23 @@
 
 
 
-  <a href="mailto:apedro.rp@gmail.com">
-          <a href="https://api.whatsapp.com/send?phone=353803678434&text=Oi%20Pedro,%20estou%20entrando%20em%20contato%20pelo%20seu%20README!">
-  <img src="https://img.shields.io/badge/WhatsApp-25D365?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+ <a href="mailto:apedro.rp@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-        <a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://www.instagram.com/apedrorocha/">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-        </a>
-        </br>
+
+<a href="https://api.whatsapp.com/send?phone=353803678434&text=Oi%20Pedro,%20estou%20entrando%20em%20contato%20pelo%20seu%20README!">
+  <img src="https://img.shields.io/badge/WhatsApp-25D365?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<a href="https://www.linkedin.com/in/pedro-augusto-rocha-548b28110/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/apedrorocha/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+</br>
    </br>
    <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-bottom: 40px;">
     </div>
@@ -31,6 +34,14 @@
 
   - Cambridge CAE (C1),
 
+    ### [<img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">](https://skills.yourlearning.ibm.com/) 
+
+  - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url),
+  - [Web Development Fundamentals - IBM and Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url),
+  - [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url).
+
+</br>
+
 ### <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
 
   - [Python - Basic Module, 32 hours - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing),
@@ -38,14 +49,6 @@
 
 
  </br>
-
-### [<img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">](https://skills.yourlearning.ibm.com/) 
-
-  - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url),
-  - [Web Development Fundamentals - IBM and Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url),
-  - [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url).
-
-</br>
 
 
 
