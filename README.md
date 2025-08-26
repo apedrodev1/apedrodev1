@@ -30,28 +30,26 @@
     </div>
 </br>
 
-## 📜 Certificates:
+## 📜 Certificates
 
-  - Cambridge CAE (C1),
+### 🌍 Languages & International Certifications
+- <img src="https://img.shields.io/badge/Cambridge%20CAE%20(C1)-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Cambridge CAE (C1)">
+  *(C1 Advanced – Cambridge Assessment English)*
 
 </br>
 
- ### [<img width="60" height="40" alt="images" src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" />](https://skills.yourlearning.ibm.com/)
+### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="120" alt="IBM logo">
 
-  - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url),
-  - [Web Development Fundamentals - IBM and Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url),
-  - [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url).
+- [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)  
+- [Web Development Fundamentals - IBM & Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url)  
+- [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url)
 
 </br>
 
 ### <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
 
-  - [Python - Basic Module, 32 hours - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing),
-  - [Python - Intermediate Module, 32 hours - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link).
-
-
- </br>
-
+- [Python - Basic Module, 32h - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing)  
+- [Python - Intermediate Module, 32h - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link)
 
 
 ## 🛠️ Technologies that I've been studying:
