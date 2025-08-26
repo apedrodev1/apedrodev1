@@ -39,7 +39,7 @@
 
  </br>
 
- <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=<https://duckduckgo.com/?q=ibm+logo&atb=v465-1&ia=images&iax=images&iai=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FIBM-Symbol.jpg>&logoColor=white" alt="IBM">
+ <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=<https://www.google.com/imgres?q=ibm%20logo&imgurl=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Fibm_logo_icon_170000.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fibm-logo%2F170000&docid=iRzXwwsV8Cmk4M&tbnid=zo5IeE27AG7KIM&vet=12ahUKEwjx1ISxrKmPAxWbO7kGHVkOBzsQM3oECBYQAA..i&w=512&h=256&hcb=2&ved=2ahUKEwjx1ISxrKmPAxWbO7kGHVkOBzsQM3oECBYQAA>&logoColor=white" alt="IBM">
 
 ### [IBM SkillBuild](https://skills.yourlearning.ibm.com/) <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">
 
