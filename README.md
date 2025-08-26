@@ -6,8 +6,6 @@
 - 📧 How to reach me: 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
 
-
-
  <a href="mailto:apedro.rp@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -35,7 +33,7 @@
 </br>
 
 ### 🌍 Languages & International Certifications
-<img width="65" height="40" alt="secondary-logo-stacked" src="https://github.com/user-attachments/assets/ad1e9a5a-3072-4886-b2e1-080a7b3ac59c" alt="Cambridge CAE" />
+<img width="70" alt="cambridge-assessment-international-education-vector-logo" src="https://github.com/user-attachments/assets/fdc710ad-1aed-4669-97c0-18b4efd3d4b3" alt="Cambridge CAE" />
   - C1 Advanced – Cambridge Assessment English
 
 </br>
