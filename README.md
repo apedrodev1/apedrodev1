@@ -33,12 +33,12 @@
 ## 📜 Certificates
 
 ### 🌍 Languages & International Certifications
-- <img src="https://img.shields.io/badge/Cambridge%20CAE%20(C1)-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Cambridge CAE (C1)">
+<img src="https://img.shields.io/badge/Cambridge%20CAE%20(C1)-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="Cambridge CAE">
   *(C1 Advanced – Cambridge Assessment English)*
 
 </br>
 
-### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="120" alt="IBM logo">
+### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="80" alt="IBM logo">
 
 - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)  
 - [Web Development Fundamentals - IBM & Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url)  
