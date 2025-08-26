@@ -33,12 +33,11 @@
 </br>
 
 ### 🌍 Languages & International Certifications
-<img width="70" alt="cambridge-assessment-international-education-vector-logo" src="https://github.com/user-attachments/assets/fdc710ad-1aed-4669-97c0-18b4efd3d4b3" alt="Cambridge CAE" />
   - C1 Advanced – Cambridge Assessment English
 
 </br>
 
-### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="65" alt="IBM logo">
+### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="70" alt="IBM logo">
 
 - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)  
 - [Web Development Fundamentals - IBM & Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url)  
@@ -51,6 +50,7 @@
 - [Python - Basic Module, 32h - Huawei](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing)  
 - [Python - Intermediate Module, 32h - Huawei](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link)
 
+</br>
 
 ## 🛠️ Technologies that I've been studying:
 
