@@ -30,7 +30,6 @@
 
 ## 📜 Certificates
 
-</br>
 
 ### 🌍 Languages & International Certifications
   - C1 Advanced – Cambridge Assessment English
