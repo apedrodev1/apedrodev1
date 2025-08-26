@@ -39,7 +39,8 @@
 
  </br>
 
- 
+ <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=<https://duckduckgo.com/?q=ibm+logo&atb=v465-1&ia=images&iax=images&iai=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FIBM-Symbol.jpg>&logoColor=white" alt="IBM">
+
 ### [IBM SkillBuild](https://skills.yourlearning.ibm.com/) <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM">
 
   - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url),
