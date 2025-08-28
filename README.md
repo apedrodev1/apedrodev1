@@ -4,7 +4,7 @@
 - ⚙️ IT intership at São José do Rio Pardo City Council.
 - 🚀 Also, complementary studies in Cisco Networking Academy, Huawei Academy  and B7.web,
 - 📧 How to reach me: 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">   
 
  <a href="mailto:apedro.rp@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
