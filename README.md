@@ -39,8 +39,9 @@
 ### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="70" alt="IBM logo">
 
 - [Agile Explorer - IBM](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)  
-- [Web Development Fundamentals - IBM & Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url)  
 - [Artificial Intelligence Fundamentals - IBM](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url)
+- [Web Development Fundamentals - IBM & Capstone](https://www.credly.com/badges/41c23eee-8f1f-409c-992a-659a2f4cf938/public_url)  
+
 
 </br>
 
