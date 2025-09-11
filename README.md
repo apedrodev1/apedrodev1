@@ -36,6 +36,12 @@
 
 </br>
 
+### <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+
+- [Cyber Threat Management](https://www.credly.com/earner/earned/badge/6479bd5d-b03d-4da9-9f26-3b846cd59d8e)  
+
+</br>
+
 ### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="70" alt="IBM logo">
 
 - [Agile Explorer](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)  
