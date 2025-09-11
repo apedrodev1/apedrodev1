@@ -42,7 +42,7 @@
 
 </br>
 
-### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="70" alt="IBM logo">
+### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="60" alt="IBM logo">
 
 - [Agile Explorer](https://www.credly.com/badges/23d34252-e6f8-433b-8df4-d8ff90142806/public_url)  
 - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/ce1cd17e-83dc-4fa4-b122-29b26601d45a/public_url)
