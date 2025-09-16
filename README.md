@@ -40,6 +40,8 @@
 
 - [Cyber Threat Management](https://www.credly.com/badges/6479bd5d-b03d-4da9-9f26-3b846cd59d8e/public_url)  
 
+<a href="https://www.credly.com/badges/6479bd5d-b03d-4da9-9f26-3b846cd59d8e/public_url" target="_blank">Cyber Threat Management</a>
+
 </br>
 
 ### <img src="https://github.com/user-attachments/assets/97ff6381-49c1-4752-ab73-e42328421adf" width="60" alt="IBM logo">
