@@ -60,7 +60,6 @@
 
 </br>
 
-
 ## 🛠️ Technologies that I've been studying:
 
 <div style="display: inline-block;">
