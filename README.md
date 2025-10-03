@@ -82,11 +82,11 @@
 
 ## 🌟  Highlighted projects:
 
+- Projeto [Conexão Criativa](https://github.com/apedrodev1/prompts-for-podcast-generate-by-ia/blob/main/README.MD) automação total de podcast com IA para o Programa Trainee Santander 2024 (roteiro, vozes, artes, vídeo e edição).
+
 - Projeto [To-do-list](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/To%20do%20list) em JavaScript e PHP.
 
 - Projeto [QuickPrompt SignUp](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/QuickPrompt%20SignUp) em JavaScript; arquitetura Modular X Monolítica.
-
-- Projeto [Jogo da Forca](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Jogo%20Forca) em JavaScript.
 
 - Projeto [Mega Sena](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Mega%20Sena) em JavaScript.
 
