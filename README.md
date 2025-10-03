@@ -82,7 +82,7 @@
 
 ## 🌟  Highlighted projects:
 
-- Projeto [Conexão Criativa](https://github.com/apedrodev1/prompts-for-podcast-generate-by-ia/blob/main/README.MD) automação total de podcast com IA para o Programa Trainee Santander 2024 (roteiro, vozes, artes, vídeo e edição).
+- Projeto [Conexão Criativa](https://github.com/apedrodev1/prompts-for-podcast-generate-by-ia/blob/main/README.MD) automação total de podcast com IA para o Programa Trainee Santander 2026 (roteiro, vozes, artes, vídeo e edição).
 
 - Projeto [To-do-list](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/To%20do%20list) em JavaScript e PHP.
 
