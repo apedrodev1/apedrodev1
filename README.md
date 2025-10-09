@@ -60,7 +60,7 @@
 
 </br>
 
-### ### <img src="https://img.shields.io/badge/Uni%3Eersia-FF0000?style=for-the-badge&logoColor=white" alt="Universia">
+### <img src="https://img.shields.io/badge/Uni%3Eersia-FF0000?style=for-the-badge&logoColor=white" alt="Universia">
 
 - [Fundamentos da IA Generativa](https://www.dio.me/certificate/NKZSRUCC/share)
 
