@@ -56,7 +56,7 @@
 ### <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
 
 - [Python - Basic Module](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing)  
-- [Python - Intermediate Module](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link)
+- [Python - Intermediate Module](https://fatecjd.edu.br/huawei/certif2.php)
 - [Python - Advanced Module](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link)
 
 </br>
