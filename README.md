@@ -53,7 +53,7 @@
 
 </br>
 
-### <img src="https://img.shields.io/badge/FGV-0033A0?style=for-the-badge&logo=google-scholar&logoColor=white" alt="FGV">
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/FGV_Nacional.png" alt="FGV" style="height:30px"> Fundação Getúlio Vargas
 
 - [Introdução ao Git e Git Hub](https://drive.google.com/file/d/1_FHKW2-67xGTdjOVUOlAwnDgCZQmVZqV/view?usp=sharing)
 
