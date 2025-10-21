@@ -63,7 +63,7 @@
 
 - [Python - Basic Module](https://drive.google.com/file/d/1KhqwjPryjefwk3w8Emai9F5INvl89fgi/view?usp=sharing)  
 - [Python - Intermediate Module](https://drive.google.com/file/d/1Qx8j5X0W8n-Vbh63mPoIocxGRx9FnxF8/view?usp=drive_link)
-- [Python - Advanced Module]()
+- [Python - Advanced Module](https://drive.google.com/file/d/1G8mogrYD1vGtS7t3ls-pOx8zAZrs-w1N/view?usp=sharing)
 
 </br>
 
