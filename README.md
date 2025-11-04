@@ -105,7 +105,7 @@
 
 - Projeto [Conversor de texto para áudio](https://github.com/apedrodev1/JavaScript-Learning-HUB/tree/main/Conversor%20texto%20fala) em JavaScript.
 
-- Projeto [Calculando médias escolares](https://github.com/apedrodev1/Python-Learning-HUB/blob/main/M%C3%A9dia%20aluno%20OOP/README.md) em Python usando POO.
+- Projeto [Calculando médias escolares](https://github.com/apedrodev1/Python-Learning-HUB/blob/main/M%C3%A9dia%20aluno%20OOP/README.md) em Python usando POO e SQLite 3.
 
 - Projeto [Jokenpô - Pedra, Papel e Tesoura](https://github.com/apedrodev1/Python-Learning-HUB/tree/main/Pedra%20Papel%20Tesoura) em Python. 
 
