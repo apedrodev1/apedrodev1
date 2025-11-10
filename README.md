@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
+
+
 <a href="https://api.whatsapp.com/send?phone=353803678434&text=Oi%20Pedro,%20estou%20entrando%20em%20contato%20pelo%20seu%20README!">
   <img src="https://img.shields.io/badge/WhatsApp-25D365?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
