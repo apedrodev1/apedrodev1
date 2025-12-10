@@ -40,7 +40,7 @@
 
 - [Cyber Threat Management](https://www.credly.com/badges/6479bd5d-b03d-4da9-9f26-3b846cd59d8e/public_url)  
 - [JavaScript Essentials 1](https://www.credly.com/badges/eac68215-7e79-45f8-8804-f2a4300ee5c0/public_url)
-- - [JavaScript Essentials 2](https://www.credly.com/badges/300754ec-e2a9-41f4-add7-44ba6c1879b2)
+- [JavaScript Essentials 2](https://www.credly.com/badges/300754ec-e2a9-41f4-add7-44ba6c1879b2)
 
 </br>
 
