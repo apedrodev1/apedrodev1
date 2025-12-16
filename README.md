@@ -33,6 +33,7 @@
 
 ### 🌍 Languages & International Certifications
   - C1 Advanced – Cambridge Assessment English
+  - [English for IT 1 - Cisco](https://www.credly.com/badges/8f806274-7b66-47b5-b2df-5ac1a6ec2c5d/linked_in?t=t7dsb4)
 
 </br>
 
