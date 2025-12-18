@@ -31,15 +31,15 @@
 ## 📜 Certificates
 
 
-### 🌍 Languages & International Certifications
-  - C1 Advanced – Cambridge Assessment English
-  - [English for IT 1 - Cisco](https://www.credly.com/badges/8f806274-7b66-47b5-b2df-5ac1a6ec2c5d/linked_in?t=t7dsb4)
+  
 
 </br>
 
 ### <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 
-- [Cyber Threat Management](https://www.credly.com/badges/6479bd5d-b03d-4da9-9f26-3b846cd59d8e/public_url)  
+- [Cyber Threat Management](https://www.credly.com/badges/6479bd5d-b03d-4da9-9f26-3b846cd59d8e/public_url)
+- [English for IT 1](https://www.credly.com/badges/8f806274-7b66-47b5-b2df-5ac1a6ec2c5d/linked_in?t=t7dsb4)
+- [English for IT 2](https://www.credly.com/badges/9adf6015-9669-487e-8e97-0e8d6d555e03/public_url)
 - [JavaScript Essentials 1](https://www.credly.com/badges/eac68215-7e79-45f8-8804-f2a4300ee5c0/public_url)
 - [JavaScript Essentials 2](https://www.credly.com/badges/300754ec-e2a9-41f4-add7-44ba6c1879b2)
 - [Python Essentials 1](https://www.credly.com/badges/6972ecc1-1a47-49da-9370-0738441eb19f/linked_in_profile) 
