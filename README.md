@@ -30,11 +30,6 @@
 
 ## 📜 Certificates
 
-
-  
-
-</br>
-
 ### <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
 
 - [Cyber Threat Management](https://www.credly.com/badges/6479bd5d-b03d-4da9-9f26-3b846cd59d8e/public_url)
