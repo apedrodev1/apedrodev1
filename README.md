@@ -24,7 +24,7 @@
 
 </br>
    </br>
-   <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-bottom: 40px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-bottom: 40px;"> Crashado - ver
     </div>
 </br>
 
@@ -85,7 +85,7 @@
 </br>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&show_icons=true&theme=dark" alt="Top Langs" style="margin-top: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apedrodev1&show_icons=true&theme=dark" alt="Top Langs" style="margin-top: 20px;">  Crashado - ver
 
 
 </br>
