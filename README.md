@@ -107,8 +107,6 @@
 
 - Projeto [Jokenpô - Pedra, Papel e Tesoura](https://github.com/apedrodev1/Python-Learning-HUB/tree/main/Pedra%20Papel%20Tesoura) em Python. 
 
-
-
 </br>
 
 ## 📄 Cover Letter and resume:
@@ -117,7 +115,6 @@
 - You can check my cover letter in PDF here:   [⬇️⬇️](https://drive.google.com/file/d/1mK2ABc9JE4gRSf2Lup3yc3jBs_n9GIXQ/view?usp=sharing) 
 
 </br>
-
 
 ## 🎉 Thanks for checking out!
 
@@ -130,8 +127,3 @@ Feel free to open issues or contribute.
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </br>
-
-
-
-
-
