@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=100&section=header"/>
-
-## Hey there! I'm Pedro Augusto! ✌️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC4899&height=120&section=header"/>
+### Hey there! I'm Pedro Augusto! ✌️
+</br>
 
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,    
 - ⚙️ IT intership at São José do Rio Pardo City Council.
