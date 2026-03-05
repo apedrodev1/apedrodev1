@@ -130,4 +130,4 @@ Feel free to open issues or contribute.
 
 </br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC4899&height=120&section=footer"/>
