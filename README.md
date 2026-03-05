@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0e165f&height=120&section=header"/>
+
 </br>
+
 ### Hey there! I'm Pedro Augusto! ✌️
 
 - 🖥️ I'm currently studying Analysis and Systems Development at FATEC - Mococa University,    
@@ -126,8 +128,10 @@ Feel free to open issues or contribute.
 
 </br>
 
-[snake gif](https://github.com/CamilleGFAlmeida/CamilleGFAlmeida/blob/output/github-contribution-grid-snake-dark.svg) 
+![snake gif](https://raw.githubusercontent.com/CamilleGFAlmeida/CamilleGFAlmeida/output/github-contribution-grid-snake-dark.svg)
 
 <!-- [snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg) -->!
 
 </br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0e165f&height=120&section=footer"/>
