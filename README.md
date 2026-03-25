@@ -27,7 +27,7 @@
 
 </br>
    </br>
-   <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-bottom: 40px;"> Crashado - ver
+   <img src="https://github-readme-stats.vercel.app/api?username=apedrodev1&show_icons=true&theme=dark" alt="Pedro's GitHub stats" style="margin-bottom: 40px;"> 
     </div>
 </br>
 
